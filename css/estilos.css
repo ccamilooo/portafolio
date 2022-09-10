@@ -1,0 +1,327 @@
+/*Estilos del menu*/
+
+#menu a {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(0, 0, 0, 0.62);
+
+}
+
+#menu .boton {
+    background: #C0BA1A;
+    border-radius: 20px;
+    color: white;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px
+}
+
+/*Estilos inicio*/
+
+#inicio {
+    background: rgba(192, 186, 26, 0.13);
+}
+
+#inicio .mas {    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+#inicio .mas2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 54px;
+    color: #000000;
+}
+
+#inicio span {
+    color: #C0BA1A;   
+}
+
+#inicio p {
+    padding: 20px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.61);
+}
+
+#inicio .boton {
+    margin-right: 20px;
+    background: #C0BA1A;
+    border-radius: 20px;
+    color: white;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px
+}
+
+#inicio .foto{
+    display: block;
+    margin: auto;
+    border-radius: 2000px;
+}
+
+/*Estilos sobre mi*/
+
+
+#sobremi h2 {
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+}
+#sobremi span {
+    color: #C0BA1A;    
+}
+
+#sobremi img {
+    text-align: center;
+}
+
+#sobremi .title2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 54px;
+    color: #000000;
+  
+}
+
+#sobremi p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+#sobremi a{  
+    text-decoration: none;
+    margin-right: 10px;
+    color: #000000;
+}
+
+#sobremi img {
+    padding: 10px;
+}
+
+#sobremi .boton {
+    margin-top: 15px;
+    background: #C0BA1A;
+    border-radius: 20px;
+    color: white;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight
+}
+
+
+/*Estilos de mi servicios*/
+
+#miservicios{
+    background: rgba(192, 186, 26, 0.13);
+}
+
+#miservicios h2{
+    padding: 20px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+#miservicios span {
+    color: #C0BA1A;
+}
+
+#miservicios .fondo {
+    margin: 20px;
+    width: 312px;
+    height: 279px;
+    left: 177px;
+    top: 1490px;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+#miservicios img {
+    display: block;
+    margin: auto; 
+    padding: 50px;
+       
+}
+
+#miservicios p {
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+}
+
+
+/*Estilos de Portafolio*/
+
+#miportafolio h2 {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 54px;
+    color: #000000;
+}
+
+#miportafolio span {
+    color: #C0BA1A;
+}
+
+#miportafolio .cors {
+  padding: 10px;
+}
+
+#miportafolio h4 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 200px;
+}
+
+#miportafolio p {
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+/*Estilos de contacto*/
+
+#contacto h2 {
+    padding: 20px;
+    color: #C0BA1A;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+#contacto {
+    background: rgba(192, 186, 26, 0.13);
+}
+
+
+/*Estilos de Blogs*/
+
+#blog h2 {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+#blog .blogosf {   
+    background: rgba(192, 186, 26, 0.13);
+    border-radius: 10px;    
+}
+
+#blog img {
+    margin-top: 10px;
+    width: 100%;   
+}
+
+#blog .tit{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 34px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+#blog .boton {
+    display: block;
+    margin: auto;
+    color: #D9D9D9;
+    font-size: 20px;
+    background: #C0BA1A;
+    border-radius: 20px;
+    
+}
+
+#blog h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+#blog span {
+    color: #C0BA1A;
+}
+
+
+/*Estilos de mis habilidades*/
+
+#imagenes img {
+padding: 20px;
+width: 89px;
+height: 92px;
+left: 384px;
+top: 4556px;
+}
+
+#imagenes .centrado{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+
+/*Estilos pie de pagina*/
+
+#derechos {
+    background: rgba(192, 186, 26, 0.13);
+}
+
+#derechos .copy {
+    color: #D9D9D9;
+}
+
+#derechos .copy2 {
+    color: #DAC509;
+}
+
+#derechos p {
+    padding-top: 10px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+}
+
